@@ -29,4 +29,4 @@ Abaixo estão os comandos fundamentais que pratiquei durante o curso:
 | `git branch -M main` | Renomeia a branch principal para `main`. |
 
 ---
-*Certificado e Praticado por [Seu Nome Aqui] - 2025*
+*Certificado e Praticado por [Andrey Almeida Da Silva] - 2025*
